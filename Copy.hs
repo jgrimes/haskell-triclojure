@@ -1,5 +1,5 @@
 module Main where
-import System
+import System.Environment
 
 main = do
   [file1, file2] <- getArgs -- read the first two arguments passed in
