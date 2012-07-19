@@ -23,3 +23,11 @@ To try out QuickCheck.hs
         ghci QuickCheck.hs
         Main> quickCheck prop_minimum
         Main> quickCheck prop_ordered
+        
+Also, some good material online. If you are interested in seeing how pervasive laziness in a language can be used in awesome ways, check out "Why Functional Programming Matters"
+
+[Why Functional Programming Matters (PDF Warning)](http://www.cs.kent.ac.uk/people/staff/dat/miranda/whyfp90.pdf)
+
+[Learn you a Haskell (also available in print)](http://learnyouahaskell.com/)
+
+[Real World Haskell (also available in print)](http://book.realworldhaskell.org/read/)
